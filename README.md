@@ -24,5 +24,15 @@ The game must be executed from the terminal passing the size of the map (between
 
 <kbd class="text-bold hx_text-body">esc</kbd> exit the game
 
-<img src="https://github.com/MarioA-PM/Snake2D/blob/main/resources/gameIm/g3.jpg" height="300"/><img src="https://github.com/MarioA-PM/Snake2D/blob/main/resources/gameIm/g1.jpg" height="300"/><img src="https://github.com/MarioA-PM/Snake2D/blob/main/resources/gameIm/g4.jpg" height="300"/>
+<p align="center">
+  <img src="https://github.com/MarioA-PM/Snake2D/blob/main/resources/gameIm/g3.jpg" height="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MarioA-PM/Snake2D/blob/main/resources/gameIm/g1.jpg" height="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MarioA-PM/Snake2D/blob/main/resources/gameIm/g4.jpg" height="300"/>
+</p>
 
